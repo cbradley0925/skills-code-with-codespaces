@@ -2,7 +2,7 @@
   "name": "Universal - Latest",
   "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
-  },
+  }, 
   "postCreateCommand": "bash .devcontainer/postCreate.sh",
   "customizations": {
     "vscode": {
